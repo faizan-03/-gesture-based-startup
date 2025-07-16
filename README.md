@@ -13,6 +13,9 @@ A futuristic web interface that detects a **right-hand gesture** through the web
 - 📱 Mobile-friendly & responsive design
 - 🔐 AI-style experience with clean UI
 
+
+<a href ="https://gesturedetactation.vercel.app/"/>
+
 ---
 
 
