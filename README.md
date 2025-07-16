@@ -12,8 +12,14 @@ A futuristic web interface that detects a **right-hand gesture** through the web
 - ✅ Voice + glow border + "Access Granted" message
 - 📱 Mobile-friendly & responsive design
 - 🔐 AI-style experience with clean UI
--  <a href ="https://gesturedetactation.vercel.app/"/>
-
+- 
 ---
 
+## 🚀 Live Demo
+
+[![Visit App](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://gesturedetactation.vercel.app/)
+
+or just click: https://gesturedetactation.vercel.app/
+
+---
 
